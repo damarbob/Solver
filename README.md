@@ -1,7 +1,7 @@
 [![](https://jitpack.io/v/damarbob/Solver.svg)](https://jitpack.io/#damarbob/Solver)
 # DSM Solver
 The DSM Solver project is an open-source Android library developed in Java that aims to assist developers in solving complex problems related to the Capacitated Vehicle Routing Problem (CVRP). With this library, developers can easily implement CVRP solutions in their Android applications.
-[Official Website](https://dsm.my.id/RouteMate/)
+[Official Website](https://dsm.my.id/dsm-solver/)
 
 ## Installation
 - Add jitpack.io repository to your project-level build.gradle file
